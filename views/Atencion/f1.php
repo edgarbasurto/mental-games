@@ -20,9 +20,6 @@
 					<div class="col-2">
 						<img alt="fruta" src="assets/imagenes/m5/m5-05.png" class="item" id="frt5" style="height: 45px;">
 					</div>
-					<div class="col-2 text-end">
-						
-					</div>
 				</div>
 
 			</div>

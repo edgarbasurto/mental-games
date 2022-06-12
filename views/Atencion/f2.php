@@ -12,16 +12,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 		<div class="card">
 			<div class="card-header">
 				<div class="row">
-					<div class="col-8">
+					<div class="col-9">
 						<h4 class="card-title">Selecciona todas las imagenes que encuentres como esta:</h4>
 					</div>
-					<div class="col-2">
+					<div class="col-3">
 
 						<img alt="fruta" src="assets/imagenes/m6/m6-03.png" class="item" id="obj3" style="height: 45px;">
 					</div>
-					<div class="col-2 text-end">
-
-					</div>
+				
 				</div>
 
 			</div>

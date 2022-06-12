@@ -11,16 +11,8 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 		<div class="card">
 			<div class="card-header">
 				<div class="row">
-					<div class="col-8">
-						<h4 class="card-title">Selecciona todos los números que encuentres como este: </h4>
-					</div>
-					<div class="col-2">
-
-						<h4 class="card-title"> <b class="itemNumero">7</b></h4>
-					</div>
-
+						<h4 class="card-title">Selecciona todos los números que encuentres como este: <b>7</b></h4>
 				</div>
-
 			</div>
 
 			<div class="card-body">
@@ -200,13 +192,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 				</div>
 
 			</div>
-
-		</div>
-		<div class="card-footer text-end">
+			<div class="card-footer text-end">
 			<button type="button" onclick="pausarConteo()" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
 				Terminado <i class="fa-solid fa-play"></i>
 			</button>
 		</div>
+
+		</div>
+		
 
 	</div>
 

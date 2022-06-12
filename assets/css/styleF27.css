@@ -1,7 +1,7 @@
 .draggable-elements {
 	display: flex;
 	justify-content: center;
-	margin: 1rem;
+	/* margin: 1rem; */
 }
 
 .droppable-elements {
@@ -12,9 +12,9 @@
 }
 .draggable {
 	height: 2rem;
-	width: 5rem;
+	/* width: 5rem; */
 	display: flex;
-	align-items: center;
+	/* align-items: center; */
 	justify-content: center;
 	font-size: 4 rem;
 	margin: 0rem 0.5rem;
@@ -66,5 +66,9 @@
 
 @media screen and (max-width: 981px) {
 	html { font-size: 18px;}
-	.draggable-elements {margin: 2rem;}
+	.draggable-elements {margin: 1rem 0rem;}
+	.droppable-elements {
+		
+		margin: 0 0rem;
+	}
 } 

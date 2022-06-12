@@ -1,6 +1,7 @@
 html, body {
 	height: 100%;
 	margin: 0px;
+	margin-bottom: 100px;
   }
   
 * {
@@ -461,10 +462,10 @@ header {
 }
 
 @media screen and (max-width: 981px) {
-	html { font-size: 20px;}
-    .panelJuegoM5{width: 100%;
+	html { font-size: 18px;}
+    /* .panelJuegoM5{width: 100%;
 	font-size: 28px;}
-	.contenedor {width: 95%;}
+	.contenedor {width: 95%;} */
 
 	/* .modalDialog>div{
 		width: 700px;
@@ -491,22 +492,22 @@ header {
 	}
 
 	.icon span {
-		font-size: 130px;
+		font-size: 100px;
 	}
 
 	.itemM5 {
-		height: 150px;
+		height: 60px;
 		/* margin: 25px 5px; */
 	}
 
 	.itemM6 {
-		height: 100px;
+		height: 50px;
 		margin: 0;
 	}
-
+	
 	.itemM7 {
-		font-size: 65px;
-		padding: 8px 22px;
+		font-size: 26px;
+		padding: 4px 14px;
 		float: left;
 	}
 

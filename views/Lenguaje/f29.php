@@ -16,14 +16,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
             </div>
             <div class="card-body row">
 
-                <div class="draggable-elements">
+                <div class="draggable-elements row">
 
-                    <i class="draggable" draggable="true" id="box1">me</i>
-                    <i class="draggable" draggable="true" id="box2">larga</i>
-                    <i class="draggable" draggable="true" id="box3">apetece</i>
-                    <i class="draggable" draggable="true" id="box4">una</i>
-                    <i class="draggable" draggable="true" id="box5">dormir</i>
-                    <i class="draggable" draggable="true" id="box6">siesta</i>
+                    <i class="draggable col" draggable="true" id="box1">me</i>
+                    <i class="draggable col" draggable="true" id="box2">larga</i>
+                    <i class="draggable col" draggable="true" id="box3">apetece</i>
+                    <i class="draggable col" draggable="true" id="box4">una</i>
+                    <i class="draggable col" draggable="true" id="box5">dormir</i>
+                    <i class="draggable col" draggable="true" id="box6">siesta</i>
                 </div>
 
                 <div class="droppable-elements">
@@ -33,14 +33,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 
                 </div>
 
-                <div class="draggable-elements">
+                <div class="draggable-elements row">
 
-                    <i class="draggable" draggable="true" id="box7">el</i>
-                    <i class="draggable" draggable="true" id="box8">está</i>
-                    <i class="draggable" draggable="true" id="box9">nubes</i>
-                    <i class="draggable" draggable="true" id="box10">de</i>
-                    <i class="draggable" draggable="true" id="box11">repleto</i>
-                    <i class="draggable" draggable="true" id="box12">cielo</i>
+                    <i class="draggable col" draggable="true" id="box7">el</i>
+                    <i class="draggable col" draggable="true" id="box8">está</i>
+                    <i class="draggable col" draggable="true" id="box9">nubes</i>
+                    <i class="draggable col" draggable="true" id="box10">de</i>
+                    <i class="draggable col" draggable="true" id="box11">repleto</i>
+                    <i class="draggable col" draggable="true" id="box12">cielo</i>
                 </div>
 
                 <div class="droppable-elements">
@@ -50,14 +50,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 
                 </div>
 
-                <div class="draggable-elements">
+                <div class="draggable-elements row">
 
-                    <i class="draggable" draggable="true" id="box13">en</i>
-                    <i class="draggable" draggable="true" id="box14">tomamos</i>
-                    <i class="draggable" draggable="true" id="box15">fresca</i>
-                    <i class="draggable" draggable="true" id="box16">leche</i>
-                    <i class="draggable" draggable="true" id="box17">pueblo</i>
-                    <i class="draggable" draggable="true" id="box18">el</i>
+                    <i class="draggable col" draggable="true" id="box13">en</i>
+                    <i class="draggable col" draggable="true" id="box14">tomamos</i>
+                    <i class="draggable col" draggable="true" id="box15">fresca</i>
+                    <i class="draggable col" draggable="true" id="box16">leche</i>
+                    <i class="draggable col" draggable="true" id="box17">pueblo</i>
+                    <i class="draggable col" draggable="true" id="box18">el</i>
                 </div>
 
                 <div class="droppable-elements">
@@ -67,14 +67,14 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 
                 </div>
 
-                <div class="draggable-elements">
+                <div class="draggable-elements row">
 
-                    <i class="draggable" draggable="true" id="box19">muchos</i>
-                    <i class="draggable" draggable="true" id="box20">televisores</i>
-                    <i class="draggable" draggable="true" id="box21">estropeado</i>
-                    <i class="draggable" draggable="true" id="box22">la</i>
-                    <i class="draggable" draggable="true" id="box23">tormenta</i>
-                    <i class="draggable" draggable="true" id="box24">ha</i>
+                    <i class="draggable col" draggable="true" id="box19">muchos</i>
+                    <i class="draggable col" draggable="true" id="box20">televisores</i>
+                    <i class="draggable col" draggable="true" id="box21">estropeado</i>
+                    <i class="draggable col" draggable="true" id="box22">la</i>
+                    <i class="draggable col" draggable="true" id="box23">tormenta</i>
+                    <i class="draggable col" draggable="true" id="box24">ha</i>
                 </div>
 
                 <div class="droppable-elements">

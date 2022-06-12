@@ -2,10 +2,10 @@
 
 class Usuario
 {
-    public int $Id;
-    public ?string $NickName;
-    public ?string $NombreCompleto;
-    public bool $Activo;
+    // public int $Id;
+    public $NickName;
+    public $NombreCompleto;
+  
    
 
     public function __construct()
@@ -14,16 +14,16 @@ class Usuario
             session_start();
         }
     }
-    public function SetValorDTO($Valor_UsuarioDTO)
-    {
-        if (isset($Valor_UsuarioDTO)) {
-            $this->Id = $Valor_UsuarioDTO['Id'];
-            $this->NickName = $Valor_UsuarioDTO['NickName'];
-            $this->NombreCompleto = $Valor_UsuarioDTO['NombreCompleto'];
-            $this->Activo = $Valor_UsuarioDTO['Activo'];
+    // public function SetValorDTO($Valor_UsuarioDTO)
+    // {
+    //     if (isset($Valor_UsuarioDTO)) {
+    //         $this->Id = $Valor_UsuarioDTO['Id'];
+    //         $this->NickName = $Valor_UsuarioDTO['NickName'];
+    //         $this->NombreCompleto = $Valor_UsuarioDTO['NombreCompleto'];
+    //         $this->Activo = $Valor_UsuarioDTO['Activo'];
            
-        }
-    }
+    //     }
+    // }
 
     public function CrearUsuario($apodo, $nombre)
     {

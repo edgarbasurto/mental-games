@@ -59,7 +59,6 @@ function pausarConteo() {
 	clearInterval(a);
 	if (aciertos === 4 && errores === 0) {
 		document.getElementById("puntaje").innerHTML = "<b>¡NIVEL COMPLETADO!</b>";
-		alert ('<%Session["Atencion1"] = " Completado "; %>');
 	} else {
 		if (aciertos === 0 && errores === 0) {
 			document.getElementById("puntaje2").innerHTML = "<b>¡VUELVE A INTENTARLO!</b>";

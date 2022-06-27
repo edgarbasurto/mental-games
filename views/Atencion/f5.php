@@ -16,179 +16,184 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 			</div>
 
 			<div class="card-body">
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">a</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">w</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">w</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">j</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">e</div>
-					<div id="numC" class="itemM7">2</div>
-				</div>
+				
+			<div class="row px-lg-5">
+					<div class="col mx-lg-1 itemF9">a</div>
+					<div class= "col mx-lg-1 itemF9">1</div>
+					<div class= "col mx-lg-1 itemF9">7</div>
+					<div class= "col mx-lg-1 itemF9">5</div>
+					<div class= "col mx-lg-1 itemF9">0</div>
+					<div class= "col mx-lg-1 itemF9">4</div>
+					<div class= "col mx-lg-1 itemF9">w</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">ñ</div>
+					<div class= "col mx-lg-1 itemF9">1</div>
+					<div class= "col mx-lg-1 itemF9">j</div>
+					<div class= "col mx-lg-1 itemF9">6</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">w</div>
+					<div class= "col mx-lg-1 itemF9">9</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">j</div>
+					<div class= "col mx-lg-1 itemF9">4</div>
+					<div class= "col mx-lg-1 itemF9">l</div>
+					<div class= "col mx-lg-1 itemF9">0</div>
+					<div class= "col mx-lg-1 itemF9">e</div>
+					<div class= "col mx-lg-1 itemF9">2</div>
+				
+					
+					<div class= "col mx-lg-1 itemF9">x</div>
+					<div class= "col mx-lg-1 itemF9">u</div>
+					<div class= "col mx-lg-1 itemF9">5</div>
+					<div class= "col mx-lg-1 itemF9">2</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">9</div>
+					<div class= "col mx-lg-1 itemF9">ñ</div>
+					<div class= "col mx-lg-1 itemF9">o</div>
+					<div class= "col mx-lg-1 itemF9">7</div>
+					<div class= "col mx-lg-1 itemF9">3</div>
+					<div class= "col mx-lg-1 itemF9">k</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">y</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">w</div>
+					<div class= "col mx-lg-1 itemF9">7</div>
+					<div class= "col mx-lg-1 itemF9">5</div>
+					<div class= "col mx-lg-1 itemF9">1</div>
+					<div class= "col mx-lg-1 itemF9">4</div>
+					<div class= "col mx-lg-1 itemF9">k</div>
+					<div class= "col mx-lg-1 itemF9">1</div>
+					<div class= "col mx-lg-1 itemF9">0</div>
+				
+					
+					<div class= "col mx-lg-1 itemF9">2</div>
+					<div class= "col mx-lg-1 itemF9">i</div>
+					<div class= "col mx-lg-1 itemF9">s</div>
+					<div class= "col mx-lg-1 itemF9">2</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">p</div>
+					<div class= "col mx-lg-1 itemF9">2</div>
+					<div class= "col mx-lg-1 itemF9">8</div>
+					<div class= "col mx-lg-1 itemF9">6</div>
+					<div class= "col mx-lg-1 itemF9">e</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+					<div   class= "col mx-lg-1 itemF9">h</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">l</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">r</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">0</div>
+					<div   class= "col mx-lg-1 itemF9">3</div>
+					<div   class= "col mx-lg-1 itemF9">f</div>
+				
+					
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">j</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">k</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">3</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">t</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+					<div   class= "col mx-lg-1 itemF9">e</div>
+					<div   class= "col mx-lg-1 itemF9">t</div>
+					<div   class= "col mx-lg-1 itemF9">o</div>
+					<div   class= "col mx-lg-1 itemF9">r</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">ñ</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">0</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">a</div>
+					<div   class= "col mx-lg-1 itemF9">8</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+				
+					
+					<div   class= "col mx-lg-1 itemF9">8</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">z</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">c</div>
+					<div   class= "col mx-lg-1 itemF9">8</div>
+					<div   class= "col mx-lg-1 itemF9">r</div>
+					<div   class= "col mx-lg-1 itemF9">i</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">z</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">o</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">m</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">b</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+				
+					
+					<div   class= "col mx-lg-1 itemF9">3</div>
+					<div   class= "col mx-lg-1 itemF9">g</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">0</div>
+					<div   class= "col mx-lg-1 itemF9">e</div>
+					<div   class= "col mx-lg-1 itemF9">p</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+					<div   class= "col mx-lg-1 itemF9">9</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+					<div   class= "col mx-lg-1 itemF9">d</div>
+					<div   class= "col mx-lg-1 itemF9">r</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">0</div>
+					<div   class= "col mx-lg-1 itemF9">h</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+					<div   class= "col mx-lg-1 itemF9">i</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">i</div>
+					<div   class= "col mx-lg-1 itemF9">0</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">7</div>
+				
+				
+					<div   class= "col mx-lg-1 itemF9">u</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">h</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">g</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">e</div>
+					<div   class= "col mx-lg-1 itemF9">6</div>
+					<div   class= "col mx-lg-1 itemF9">y</div>
+					<div   class= "col mx-lg-1 itemF9">8</div>
+					<div   class= "col mx-lg-1 itemF9">j</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
+					<div   class= "col mx-lg-1 itemF9">3</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">a</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+					<div   class= "col mx-lg-1 itemF9">4</div>
+					<div   class= "col mx-lg-1 itemF9">l</div>
+				
+			
+					<div   class= "col mx-lg-1 itemF9">h</div>
+					<div   class= "col mx-lg-1 itemF9">1</div>
+					<div   class= "col mx-lg-1 itemF9">d</div>
+					<div   class= "col mx-lg-1 itemF9">2</div>
+					<div   class= "col mx-lg-1 itemF9">r</div>
+					<div   class= "col mx-lg-1 itemF9">5</div>
 
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">o</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">w</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">k</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">0</div>
-				</div>
-
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">9</div>
-				</div>
-
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">2</div>
-				</div>
-
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">9</div>
-				</div>
-
-				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numA" class="itemM7">7</div>
-				</div>
-
-				<div class="filaPanelJuego">
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">5</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numA" class="itemM7">7</div>
-					<div id="numC" class="itemM7">9</div>
-					<div id="numC" class="itemM7">6</div>
-					<div id="numC" class="itemM7">2</div>
-					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">1</div>
-					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">9</div>
+					
 				</div>
 
 			</div>

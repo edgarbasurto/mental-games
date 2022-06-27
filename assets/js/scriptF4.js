@@ -6,6 +6,8 @@ var aciertos = 0;
 var errores = 0;
 var objetos = [];
 
+var items = document.querySelectorAll('.itemM6');
+
 a = setInterval(sumarTiempo, 1000);
 
 
@@ -20,45 +22,10 @@ function sumarTiempo() {
 	showTime("tiempo");
 }
 
-
-
-var items = document.querySelectorAll('.itemF9');
-for (let index = 0; index < items.length; index++) {
-	const element = items[index];
-	element.addEventListener('click', function () {
-		if (element.style.background !== "rgba(100, 149, 237, 0.2)") {
-			element.style.background = "rgba(100, 149, 237, 0.2)";
-			element.style.boxShadow = '0 0 10px #44f';
-			if (element.textContent >= 0) {
-				aciertos++;
-				document.getElementById("puntos").innerHTML = "<b>PUNTOS: " + aciertos
-					+ "/100</b>   ";
-			}
-			if (!(element.textContent >= 0)) {
-				errores++;
-			}
-		} else {
-			element.style.background = null;
-			element.style.boxShadow = null;
-			if (element.textContent >= 0) {
-				aciertos--;
-				document.getElementById("puntos").innerHTML = "<b>PUNTOS: " + aciertos
-					+ "/100</b>   ";
-			}
-			if (!(element.textContent >= 0)) {
-				errores--;
-			}
-		}
-
-	})
-
-}
-
-
-
+	
 function pausarConteo() {
 	clearInterval(a);
-	if (aciertos === 100 && errores === 0) {
+	if (aciertos === 15 && errores === 0) {
 		document.getElementById("puntaje").innerHTML = "<b>¡NIVEL COMPLETADO!</b>";
 	} else {
 		if (aciertos === 0 && errores === 0) {
@@ -94,4 +61,37 @@ function showTime(id){
 		document.getElementById(id).innerHTML = "<b>TIEMPO 0" + min + ":"
 				+ seg + "</b>";
 	}	
+}
+
+
+
+for (let index = 0; index < items.length; index++) {
+	const element = items[index];
+	element.addEventListener('click', function () {
+		if (element.style.background !== "rgba(100, 149, 237, 0.2)") {
+			element.style.background = "rgba(100, 149, 237, 0.2)";
+			element.style.boxShadow = '0 0 10px #44f';
+			if (element.id === "correct") {
+				aciertos++;
+				document.getElementById("puntos").innerHTML = "<b>PUNTOS: " + aciertos
+					+ "/25</b>   ";
+			}
+			if (element.id !== "correct") {
+				errores++;
+			}
+		} else {
+			element.style.background = null;
+			element.style.boxShadow = null;
+			if (element.id === "correct") {
+				aciertos--;
+				document.getElementById("puntos").innerHTML = "<b>PUNTOS: " + aciertos
+					+ "/25</b>   ";
+			}
+			if (element.id !== "correct") {
+				errores--;
+			}
+		}
+
+	})
+
 }

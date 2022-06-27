@@ -1,17 +1,4 @@
 <header>
-  <!-- <div class="navbar navbar-light navbar-expand-lg" style="background-color: #e3f2fd;">
-        <div class="container">
-
-            <a class="navbar-brand" href="index.php">
-                <img alt="JuegosMentales" height="80" class="d-inline-block align-text-top" src="../../assets/imagenes/mentalgames2.png">
-            </a>
-            <nav>
-                <a href="../../index.php">Inicio</a>
-                <span id="puntos"></span>
-                <span id="tiempo"></span>
-            </nav>
-        </div>
-    </div> -->
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #e3f2fd;" aria-label="Eighth navbar example">
     <div class="container">

@@ -24,126 +24,150 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 
 			</div>
 
-			<div class="card-body">
+			<div class="card-body text-center">
 
 
 				<div>
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
 
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
 
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
 
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
 
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
 
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
 
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
 
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
 
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-
-
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
-					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" id="obj1">
-					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" id="obj3">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-06.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-04.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6">
+					
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6">
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-05.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-08.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-03.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-01.png" class="itemM6" id="correct">
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-02.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-09.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-07.png" class="itemM6" >
+					<img alt="obj" src="assets/imagenes/m4/f4-10.png" class="itemM6" >
+					
 				</div>
 			</div>
 			<div class="card-footer text-end">
@@ -164,7 +188,7 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 	include_once VIEW_PATH . 'Templates/footer.php'
 	?>
 
-	<script src="assets/js/scriptF2.js"></script>
+	<script src="assets/js/scriptF4.js"></script>
 </body>
 
 </html>

@@ -9,8 +9,8 @@
 					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 				</div>
 				<div class="modal-body">
-					<h5 id="puntaje" class="col text-success"></h5>
-					<h5 id="puntaje2" class="col text-danger"></h5>
+					<h5 id="puntaje" class="col text-success text-center"></h5>
+					<h5 id="puntaje2" class="col text-danger text-center"></h5>
 					<div class="row">
 						<i class="fa-solid fa-clock col-3 text-end" style="color: blue;"></i>
 						<div id="time" class="col-9"></div>

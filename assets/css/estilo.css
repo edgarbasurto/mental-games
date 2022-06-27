@@ -60,7 +60,7 @@ h2 {
 }
 
 .itemM6 {
-	height: 50px;
+	height: 55px;
 	padding: 5px 10px;
 	margin: 10 px 20 px;
 	border-radius: 25%;
@@ -71,7 +71,16 @@ h2 {
 .itemM6:hover {
 	transform: scale(1.1);
 }
+.itemF7 {
+	width: 10px;
+	border-radius: 25%;
+	cursor: pointer;
+	transition: all 250ms linear;
+}
 
+.itemF7:hover {
+	transform: scale(1.1);
+}
 .itemM7 {
 	font-size: 30px;
 	font-weight: bold;
@@ -86,6 +95,17 @@ h2 {
 	transform: scale(1.1);
 }
 
+.itemF9 {
+	font-size: 30px;
+	font-weight: bold;
+	border-radius: 20%;
+	cursor: pointer;
+	transition: all 250ms linear;
+}
+
+.itemF9:hover {
+	transform: scale(1.1);
+}
 .imgM16 {
 	height: 230px;
 	padding: 0px;
@@ -497,9 +517,10 @@ header {
 
 	.itemM5 {
 		height: 60px;
-		/* margin: 25px 5px; */
+	
 	}
 
+	
 	.itemM6 {
 		height: 50px;
 		margin: 0;

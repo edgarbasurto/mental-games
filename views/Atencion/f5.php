@@ -11,33 +11,33 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 		<div class="card">
 			<div class="card-header">
 				<div class="row">
-					<h4 class="card-title">Selecciona todos los números que encuentres como este: <b>7</b></h4>
+					<h4 class="card-title">Selecciona sólo los números que encuentres:</h4>
 				</div>
 			</div>
 
-			<div class="card-body text-center">
+			<div class="card-body">
 				<div class="filaPanelJuego">
-					<div id="numC" class="itemM7">6</div>
+					<div id="numC" class="itemM7">a</div>
 					<div id="numC" class="itemM7">1</div>
 					<div id="numA" class="itemM7">7</div>
 					<div id="numC" class="itemM7">5</div>
 					<div id="numC" class="itemM7">0</div>
 					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">9</div>
+					<div id="numC" class="itemM7">w</div>
 					<div id="numC" class="itemM7">8</div>
 					<div id="numC" class="itemM7">0</div>
 					<div id="numC" class="itemM7">1</div>
 					<div id="numA" class="itemM7">7</div>
 					<div id="numC" class="itemM7">6</div>
 					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">4</div>
+					<div id="numC" class="itemM7">w</div>
 					<div id="numC" class="itemM7">9</div>
 					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">0</div>
+					<div id="numC" class="itemM7">j</div>
 					<div id="numC" class="itemM7">4</div>
 					<div id="numC" class="itemM7">9</div>
 					<div id="numC" class="itemM7">0</div>
-					<div id="numC" class="itemM7">3</div>
+					<div id="numC" class="itemM7">e</div>
 					<div id="numC" class="itemM7">2</div>
 				</div>
 
@@ -49,19 +49,19 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 					<div id="numC" class="itemM7">8</div>
 					<div id="numC" class="itemM7">9</div>
 					<div id="numC" class="itemM7">3</div>
-					<div id="numC" class="itemM7">5</div>
+					<div id="numC" class="itemM7">o</div>
 					<div id="numA" class="itemM7">7</div>
 					<div id="numC" class="itemM7">3</div>
 					<div id="numC" class="itemM7">0</div>
 					<div id="numC" class="itemM7">8</div>
 					<div id="numC" class="itemM7">2</div>
 					<div id="numC" class="itemM7">8</div>
-					<div id="numC" class="itemM7">6</div>
+					<div id="numC" class="itemM7">w</div>
 					<div id="numA" class="itemM7">7</div>
 					<div id="numC" class="itemM7">5</div>
 					<div id="numC" class="itemM7">1</div>
 					<div id="numC" class="itemM7">4</div>
-					<div id="numC" class="itemM7">5</div>
+					<div id="numC" class="itemM7">k</div>
 					<div id="numC" class="itemM7">1</div>
 					<div id="numC" class="itemM7">0</div>
 				</div>
@@ -213,7 +213,7 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 	?>
 
 
-	<script src="assets/js/scriptF3.js"></script>
+	<script src="assets/js/scriptF5.js"></script>
 </body>
 
 </html>

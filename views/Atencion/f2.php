@@ -24,7 +24,7 @@ require_once VIEW_PATH . 'Templates/headMain.php'
 
 			</div>
 
-			<div class="card-body">
+			<div class="card-body text-center">
 
 
 				<div>

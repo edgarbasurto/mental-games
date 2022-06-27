@@ -1,6 +1,6 @@
 <?php
-	require_once VIEW_PATH . 'Templates/headMain.php'
-	?>
+require_once VIEW_PATH . 'Templates/headMain.php'
+?>
 </head>
 
 <body>
@@ -10,7 +10,7 @@
 	?>
 
 	<div class="container">
-		<!-- <h1>FICHA #1</h1> -->
+
 		<div class="card">
 			<div class="card-header">
 				<div class="row">
@@ -112,15 +112,15 @@
 
 			</div>
 			<div class="card-footer text-end">
-			<button type="button" onclick="pausarConteo()" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-							Terminado <i class="fa-solid fa-play"></i>
-						</button>
+				<button type="button" onclick="pausarConteo()" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+					Terminado <i class="fa-solid fa-play"></i>
+				</button>
 			</div>
 
 		</div>
 
 	</div>
-	
+
 	<?php
 	include_once VIEW_PATH . 'Templates/modalPuntaje.php'
 	?>

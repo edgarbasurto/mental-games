@@ -1,9 +1,10 @@
-html, body {
+html,
+body {
 	height: 100%;
 	margin: 0px;
 	margin-bottom: 100px;
-  }
-  
+}
+
 * {
 	padding: 0px;
 	margin: 0px;
@@ -33,7 +34,7 @@ h2 {
 	width: 80%;
 	border: 5px groove #6681cc;
 	border-radius: 10px;
-	display:table;
+	display: table;
 }
 
 .item {
@@ -71,6 +72,7 @@ h2 {
 .itemM6:hover {
 	transform: scale(1.1);
 }
+
 .itemF7 {
 	width: 10px;
 	border-radius: 25%;
@@ -81,10 +83,11 @@ h2 {
 .itemF7:hover {
 	transform: scale(1.1);
 }
+
 .itemM7 {
 	font-size: 30px;
 	font-weight: bold;
-	padding:5px 17px;	
+	padding: 5px 17px;
 	margin: 20 px 30 px;
 	border-radius: 50%;
 	cursor: pointer;
@@ -106,6 +109,7 @@ h2 {
 .itemF9:hover {
 	transform: scale(1.1);
 }
+
 .imgM16 {
 	height: 230px;
 	padding: 0px;
@@ -113,14 +117,14 @@ h2 {
 	border-radius: 20px;
 }
 
-.itemM16{
+.itemM16 {
 	margin: 10px;
 	border-color: black;
 	border-style: solid;
 	border-radius: 20px;
 }
 
-.itemM21{
+.itemM21 {
 	margin: 10px;
 	border-radius: 20px;
 	cursor: pointer;
@@ -132,17 +136,17 @@ h2 {
 }
 
 
-.itemM16 h4{
-	margin-bottom:10px;
-	font-family:cursive;
-	}
+.itemM16 h4 {
+	margin-bottom: 10px;
+	font-family: cursive;
+}
 
-.inputM16{
+.inputM16 {
 	padding: 10px;
 }
 
-.cuerpoItem{
-	padding-bottom:10px;
+.cuerpoItem {
+	padding-bottom: 10px;
 }
 
 .cuerpoItemM23 {
@@ -150,12 +154,12 @@ h2 {
 	border-radius: 20px;
 	border-color: #000;
 	border-style: solid;
-	display:table;
+	display: table;
 	margin: 20px;
 }
 
 .itemM23 {
-	
+
 	font-size: 20px;
 	padding: 10px 0px;
 	width: 200px;
@@ -172,21 +176,51 @@ h2 {
 .fillContent {
 	height: 20px;
 	width: 100px;
-	margin:10px auto;
-	padding:10px;	
+	margin: 10px auto;
+	padding: 10px;
 	position: relative;
 }
 
+.itemM60 {
+	width: 200px;
+	/* margin: 8px 20px; */
 
+}
 
+.itemM61 {
+	width: 80px;
+	margin: 50px 0;
 
-.itemM18 h3{
-	margin-bottom:10px;
+}
+
+.itemM62 {
+	width: 70px;
+	margin: 0 14px;
+}
+
+.itemM63 {
+	width: 60px;
+	margin: 0 14px;
+}
+
+.itemM64 {
+	width: 50px;
+	margin: 0 8px;
+}
+
+.itemM642 {
+	width: 50px;
+	margin: 0 8px;
+
+}
+
+.itemM18 h3 {
+	margin-bottom: 10px;
 	margin-left: 10px;
-	font-family:cursive;
+	font-family: cursive;
 	padding: 5px;
-	}
-	
+}
+
 
 .filaPanelJuegom18 {
 	display: flex;
@@ -218,6 +252,7 @@ h2 {
 	margin-top: 8px;
 	margin-bottom: 3px;
 }
+
 .panelJuego {
 	padding: 20px;
 	float: left;
@@ -241,19 +276,20 @@ h2 {
 	float: left;
 }
 
-.columPanelJuegom20{
+.columPanelJuegom20 {
 	padding: 30px 0px;
 	margin: auto;
 	width: 50%;
-	display:table;
+	display: table;
 	float: left;
 }
 
-.errorX{
+.errorX {
 	font-size: 20px;
 	padding: 5px;
-	color:red;
+	color: red;
 }
+
 .pointer {
 
 	height: 30px;
@@ -270,6 +306,7 @@ h2 {
 	height: 100px;
 	line-height: 100px;
 }
+
 /* 
 header nav {
 	float: right;
@@ -481,9 +518,66 @@ header {
 	background: #00d9ff;
 }
 
+.container .star-widget input {
+	display: none;
+}
+
+.star-widget label {
+	font-size: 20px;
+	color: #444;
+	padding: 10px;
+	float: right;
+	transition: all 0.2s ease;
+}
+
+input:not(:checked)~label:hover,
+input:not(:checked)~label:hover~label {
+	color: #fd4;
+}
+
+input::checked~label {
+	color: #fd4;
+}
+
+input#rate-10:checked~label {
+	color: #fe7;
+	text-shadow: 0 0 20px #952;
+}
+
+input:checked~form {
+	display: block;
+}
+
+.star_rating {
+	user-select: none;
+}
+
+.star {
+	font-size: 3rem;
+	color: #ff9800;
+	background-color: unset;
+	border: none;
+}
+
+.star:hover {
+	cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 981px) {
-	html { font-size: 18px;}
-    /* .panelJuegoM5{width: 100%;
+	html {
+		font-size: 18px;
+	}
+
+	/* .panelJuegoM5{width: 100%;
 	font-size: 28px;}
 	.contenedor {width: 95%;} */
 
@@ -493,6 +587,38 @@ header {
 		font-size: 30px;
 	} */
 
+	.itemM60 {
+		width: 80px;
+		margin: 40px 0;
+
+	}
+
+	.itemM61 {
+		width: 40px;
+		margin: 40px 0;
+
+
+	}
+
+	.itemM62 {
+		width: 32px;
+		margin: 12px 0;
+	}
+
+	.itemM63 {
+		width: 30px;
+		margin: 15px 0;
+	}
+
+	.itemM64 {
+		width: 23px;
+		margin: 15px 0;
+	}
+
+	.itemM642 {
+		width: 23px;
+		margin: 15px 0;
+	}
 	.talleresFila {
 		display: block;
 		justify-content: center;
@@ -517,15 +643,15 @@ header {
 
 	.itemM5 {
 		height: 60px;
-	
+
 	}
 
-	
+
 	.itemM6 {
 		height: 50px;
 		margin: 0;
 	}
-	
+
 	.itemM7 {
 		font-size: 26px;
 		padding: 4px 14px;
@@ -535,11 +661,12 @@ header {
 	.encabezado {
 		font-size: 50px;
 	}
+
 	.item {
 		height: 100px;
 	}
 
-	.filaPanelJuego{
+	.filaPanelJuego {
 		display: inline-block;
 	}
 
@@ -548,7 +675,7 @@ header {
 
 	}
 
-	.filaPanelJuegom19{
+	.filaPanelJuegom19 {
 		margin-left: 5%;
 		font-size: 40px;
 		padding: 60px 0;
@@ -558,9 +685,9 @@ header {
 		width: 100%;
 	}
 
-	.filaPanelJuegom20{
+	.filaPanelJuegom20 {
 		margin-left: 5%;
 		font-size: 40px;
 		padding: 40px 0;
 	}
-} 
+}
